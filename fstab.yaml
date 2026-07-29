@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p140810-e1901273.adobeaemcloud.com/bin/franklin.delivery/skumawat1/eds-framework-site/main
+    url: https://author-p140810-e1901273.adobeaemcloud.com/bin/franklin.delivery/skumawat1/eds-framework/main
     type: markup
     suffix: .html
